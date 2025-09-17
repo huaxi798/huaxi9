@@ -1,0 +1,9 @@
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:37010?peer=video.manuater.com#%E9%A6%99%E6%B8%AF01
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:38030?peer=video.manuater.com#%E9%A6%99%E6%B8%AF02
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:40020?peer=news.manuater.com#%E9%A6%99%E6%B8%AF03
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:40200?peer=video.manuater.com#%E9%A6%99%E6%B8%AF04
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:34020?peer=video.manuater.com#%E6%96%B0%E5%8A%A0%E5%9D%A101
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:34030?peer=news.manuater.com#%E6%96%B0%E5%8A%A0%E5%9D%A102
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:30701?peer=static.kiuhapor.com#%E6%96%B0%E5%8A%A0%E5%9D%A103
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:30100?peer=news.manuater.com#%E7%BE%8E%E5%9B%BD01
+trojan://355ecd9f-442b-31f1-bb6c-3359fe015ad7@down.asgssdwt.com:30102?peer=news.manuater.com#%E7%BE%8E%E5%9B%BD02
